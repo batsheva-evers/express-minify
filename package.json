@@ -19,7 +19,7 @@
     "url": "git://github.com/breeswish/express-minify.git"
   },
   "dependencies": {
-    "clean-css": "^4.1.7",
+    "clean-css": "^5.2.4",
     "on-headers": "^1.0.1",
     "uglify-js": "^3.0.28"
   },
